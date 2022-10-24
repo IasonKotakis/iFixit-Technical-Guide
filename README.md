@@ -46,7 +46,7 @@
 
 <p> You can find a copy of the first checkpoint by clicking on the picture below 👇</p>
 
-<a href="https://github.com/IasonKotakis/iFixit-Technical-Guide/blob/docs/Checkpoints/Checkpoint%201.pdf"><img src="https://github.com/IasonKotakis/iFixit-Preview-on-Portfolio-Website/blob/docs/images/image_2021-02-03_212208.jpg"><img></a>
+<p><code>https://github.com/IasonKotakis/iFixit-Technical-Guide/blob/docs/Checkpoints/Checkpoint%201.pdf</code></p>
 
 <hr>
 
@@ -55,7 +55,7 @@
 
 <p>You can find a copy of the second checkpoint by clicking on the picture below 👇</p>
 
-<a href="https://github.com/IasonKotakis/iFixit-Preview-on-Portfolio-Website/blob/docs/Checkpoints/Checkpoint%202.pdf"><img src="https://github.com/IasonKotakis/iFixit-Preview-on-Portfolio-Website/blob/docs/images/Checkpoint%202.png"><img></a>
+<p><code>https://github.com/IasonKotakis/iFixit-Preview-on-Portfolio-Website/blob/docs/Checkpoints/Checkpoint%202.pdf</code></p>
 
 <hr>
 
