@@ -46,7 +46,7 @@
 
 <p> You can find a copy of the first checkpoint by clicking on the picture below 👇
 
-<a href="https://www.ifixit.com/Guide/Apple+LED+Cinema+Display+27-Inch+LED+Panel+Replacement/140309#s279703"><img src="https://github.com/IasonKotakis/iFixit-Preview-on-Portfolio-Website/blob/docs/images/image_2021-02-03_212208.jpg"><img></a>
+<a href="https://github.com/IasonKotakis/iFixit-Technical-Guide/blob/docs/Checkpoints/Checkpoint%201.pdf"><img src="https://github.com/IasonKotakis/iFixit-Preview-on-Portfolio-Website/blob/docs/images/image_2021-02-03_212208.jpg"><img></a>
 
 <hr>
 
