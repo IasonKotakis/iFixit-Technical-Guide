@@ -1,3 +1,5 @@
+<img src="https://github.com/IasonKotakis/iFixit-Technical-Guide/blob/docs/images/GitHub.PNG"><img>
+
 # iFixit Guide - Apple Cinema Display
 
 <h2>Description</h2>
