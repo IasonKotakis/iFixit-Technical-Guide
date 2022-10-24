@@ -44,7 +44,7 @@
 <h2>Checkpoint 1</h2>
 <p>The first requirement by iFixit was to create a rough layout of the guideline without including any sort of documentation therefore the first checkpoint only includes pictures with generated text so it could be assessed by an iFixit representative</p>
 
-<p> You can find a copy of the first checkpoint by clicking on the picture below 👇
+<p> You can find a copy of the first checkpoint by clicking on the picture below 👇</p>
 
 <a href="https://github.com/IasonKotakis/iFixit-Technical-Guide/blob/docs/Checkpoints/Checkpoint%201.pdf"><img src="https://github.com/IasonKotakis/iFixit-Preview-on-Portfolio-Website/blob/docs/images/image_2021-02-03_212208.jpg"><img></a>
 
