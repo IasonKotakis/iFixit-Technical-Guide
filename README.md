@@ -17,7 +17,7 @@
 <p>iFixit provided me with specific guidelines on how the guidelines needs to look as well as on how we had to submit a proposal so we can check if it gets approved.</p>
 <p>The proposal guidelines looked something like this:
     <ul>
-        <li>The proposed title of yor guide</li>
+        <li>The proposed title of your guide</li>
         <li>Your repair method</li>
         <li>Specific tools you will use for your repair</li>
         <li>Why this guide is necessary</li>
