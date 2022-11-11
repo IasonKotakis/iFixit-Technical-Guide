@@ -3,7 +3,7 @@
 <h2>Description</h2>
 <p>In this project, I am demonstrating on how I made my technical guide for disassembling and reassembling an Apple ThunderBolt Display with all the necessary safety equipment. My guide has managed to accumulate more than 1000 views and at the moment of writing this Github page, with more than 5 people have successfully to fix their issues with their LED Display panel on their Apple Thunderbolt Display.</p>
 <br>
-<p>You can find the published form of my technical guide on <a href="https://www.ifixit.com/Guide/Apple+LED+Cinema+Display+27-Inch+LED+Panel+Replacement/140309#s279703">iFixit's original website</a>.</p>
+<p>You can find the published form of my technical guid on <a href="https://www.ifixit.com/Guide/Apple+LED+Cinema+Display+27-Inch+LED+Panel+Replacement/140309#s279703">iFixit's original website</a>.</p>
 
 <hr>
 
