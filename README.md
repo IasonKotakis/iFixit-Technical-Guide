@@ -51,7 +51,7 @@
 <hr>
 
 <h2>Checkpoint 2</h2>
-<p>The second requirements by iFixit was to create the entire layout of the guideline that will be hosted on their website. After careful markup and scheduling, I managed to set up an adequate guide that explains on how to perform this repair as well as the duration and equipment needed to do so. 
+<p>The second requirements by iFixit was to create the entire layout of the guideline that will be hosted on their website. After careful markup and scheduling, I managed to set up an adequate guide that explains on how to perform this repair as well as the duration and equipment needed to do so safely. 
 
 <p>You can find a copy of the second checkpoint by clicking on the picture below 👇</p>
 
