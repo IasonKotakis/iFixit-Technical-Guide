@@ -59,4 +59,4 @@
 
 <hr>
 
-<h3> 🙏Thank you iFixit for providing me with the oportunity to contribute in your com👊 </h3>
+<h3> 🙏Thank you iFixit for providing me with the oportunity to contribute in your community👊 </h3>
