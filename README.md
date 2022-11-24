@@ -7,7 +7,7 @@
 
 <hr>
 
-<h2>What iFixit, you might ask </h2>
+<h2>What is iFixit, you might ask </h2>
 <p>The American how-to and e-commerce website iFixit offers free online repair manuals that resemble wikis and sells replacement parts for consumer electronics and gadgets. The business also disassembles consumer electronics products. The San Luis Obispo, California-based private company was established in 2003 as a result of Kyle Wiens's inability to find an Apple iBook G3 repair manual while the founders were students at Cal Poly.</p>
 <p>iFixit currently has more than 1.5 million active users that help contribute in an open source community to help maintain our electronic products instead of disposing them thus polluting the environment even further.</p>
 
